@@ -1,0 +1,11 @@
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\bin\Debug\netcoreapp3.1\JogaDados.exe
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\bin\Debug\netcoreapp3.1\JogaDados.deps.json
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\bin\Debug\netcoreapp3.1\JogaDados.runtimeconfig.json
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\bin\Debug\netcoreapp3.1\JogaDados.runtimeconfig.dev.json
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\bin\Debug\netcoreapp3.1\JogaDados.dll
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\bin\Debug\netcoreapp3.1\JogaDados.pdb
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\obj\Debug\netcoreapp3.1\JogaDados.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\obj\Debug\netcoreapp3.1\JogaDados.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\obj\Debug\netcoreapp3.1\JogaDados.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\obj\Debug\netcoreapp3.1\JogaDados.dll
+C:\Users\Paulo\Desktop\programação\JogaDados\JogaDados\obj\Debug\netcoreapp3.1\JogaDados.pdb
